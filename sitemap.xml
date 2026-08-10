@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>index.html</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>platforms.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>5paisa.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>angel-one.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>dhan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>groww.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>upstox.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>zerodha.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>refund.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>software-features.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>software-utilities.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
