@@ -4,7 +4,7 @@ Algo Trading Software
 
 ## Project info
 
-**Live site:** https://biswajitd.github.io/softgogy/
+**Live site:** https://biswajitd.github.io/softgogy-2/
 
 **Edit this site:** http://127.0.0.1:8777/open/d5eb8dcaa31e
 
